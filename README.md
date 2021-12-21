@@ -10,7 +10,7 @@ Increased Dynamic Config string buffer size to 0x8000 chars.
 # Installation
 1. Move all TU8 files into your BO3 directory, overwriting anything.
 2. Move the patched .xex files and the "ScriptLoader.dll" into your BO3 directory, overwriting anything.
-3. Create a folder called "raw" in the main BO3 directory, this is where the custom GSC files will go. For example, a custom \_clientids.gsc file would go in "raw/scripts/mp/gametypes/\_clientids.gsc".
+3. Create a folder called "raw" in the main BO3 directory, this is where the custom GSC files will go. For example, a custom \_clientids.gsc file would go in "raw/scripts/mp/gametypes/\_clientids.gsc". \
 All TU8 and patched .xex files can be downloaded here:
 https://mega.nz/file/5QslCIIQ#iqS2JxA7dz1e-MWnHvrcmplvZhZWuI0UiNAk_xhnALw
 
