@@ -2,10 +2,10 @@
 An Xbox 360 GSC injector for Black Ops 3 based on CraigChrist8239's BO2 Tesseract.
 
 # Features
-Ability to load custom GSC files from the hard drive.
-Removed DVAR write protection.
-Better error reporting when the GSC linker fails.
-Increased Dynamic Config string buffer size to 0x8000 chars.
+Ability to load custom GSC files from the hard drive. \
+Removed DVAR write protection. \
+Better error reporting when the GSC linker fails. \
+Increased Dynamic Config string buffer size to 0x8000 chars. \
 
 # Installation
 1. Move all TU8 files into your BO3 directory, overwriting anything.
